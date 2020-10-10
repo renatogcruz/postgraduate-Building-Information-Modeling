@@ -23,6 +23,9 @@ Definição de projeto, abordando projetos pessoais e profissionais contextualiz
 
 ### Modelos Informacionais
 
+Dados, informação, processamento.  Modelagem de dados. Banco e Base dados. Integração de dados. Modelos Informacionais.  Arquitetura da Informação. Sistemas de Informação. Tratamento e recuperação da Informação. Big Data, BI.
+
+[[+]](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/blob/master/02_modelos_informacionais/README.md)
 
 ### BIM 3D - Modelagem Paramétrica
 
@@ -32,8 +35,11 @@ Representação geométrica. Parametrização. Atributos. Topografia. Desenvolvi
 
 ### BIM 4D - Planejamento e Controle de Obras
 
+Logística de Transporte. Operações. Suprimento para demanda dependente e independente. Gestão de compras, medição do desempenho e desenvolvimento de fornecedores. Planejamento do estoque de matéria-prima e suprimento. Padrões para Interoperalidade. Integração e colaboração. Uso de software para análise e integração de projetos de diferentes disciplinas. Verificação de interferências.
 
-### BIM 5D - Custos e Or;amentos
+[[+]](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/06_bim_4d_planejamento_controle)
+
+### BIM 5D - Custos e Orçamentos
 
 
 ### BIM 6D - Análise Energética

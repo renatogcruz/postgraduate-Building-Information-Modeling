@@ -41,8 +41,16 @@ Logística de Transporte. Operações. Suprimento para demanda dependente e inde
 
 ### BIM 5D - Custos e Orçamentos
 
+Elementos de custos. Sistemas de Custeio: Custos diretos e indiretos, fixos e variáveis. Custeio por Absorção. Custeio Direto: margem de contribuição. Custeio ABC. Projeto de Sistemas de Custeio. Orçamentos em obras. Níveis LOD. BDI. Tabela SINAPI. Parametrização, estimação e cálculos de custos em
+software.
+
+[[+]](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/07_bim_5d_custos_orcamentos)
 
 ### BIM 6D - Análise Energética
+
+Green BIM. Metodologias para soluções sustentáveis. Design Sustentável. Análise Energética. Simulação energética com software.
+
+[[+]](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/08_bim_6d_analise_energetica)
 
 
 ### BIM 7D - Gestão de Instalações

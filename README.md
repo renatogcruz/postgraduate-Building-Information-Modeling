@@ -66,3 +66,10 @@ Green BIM. Metodologias para soluções sustentáveis. Design Sustentável. Aná
 
 
 ### TCC
+
+
+### Outros
+
+Repositório de estudos autônomos
+
+[[+]](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/13_outros)

@@ -68,8 +68,12 @@ Green BIM. Metodologias para soluções sustentáveis. Design Sustentável. Aná
 ### TCC
 
 
-### Outros
+### Repositório de estudos autônomos
 
-Repositório de estudos autônomos
+[Outros](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/13_outros)
 
-[[+]](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/13_outros)
+[Modelagem 3D e ferramentas de software para BIM](https://github.com/renatogcruz/BIM-Modeling)
+
+[Data Science para Arquitetura, Construção e Urbanismo](https://github.com/renatogcruz/Data-science-for-architecture)
+
+[Análise de IFC](https://github.com/renatogcruz/Data-science-for-architecture/tree/main/ifc_analysis)

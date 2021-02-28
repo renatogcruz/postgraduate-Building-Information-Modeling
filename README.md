@@ -19,7 +19,7 @@ Definição de projeto, abordando projetos pessoais e profissionais contextualiz
 
 Dados, informação, processamento.  Modelagem de dados. Banco e Base dados. Integração de dados. Modelos Informacionais.  Arquitetura da Informação. Sistemas de Informação. Tratamento e recuperação da Informação. Big Data, BI.
 
-## BIM 3D - [Modelagem Paramétrica](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/05_bim_3d_modelos_parametricos)
+## [BIM 3D - Modelagem Paramétrica](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/05_bim_3d_modelos_parametricos)
 
 Representação geométrica. Parametrização. Atributos. Topografia. Desenvolvimento de projeto. Quantitativos.  Visualização. Renderização. Objetos. Uso de software de modelagem. 
 
@@ -54,10 +54,10 @@ O objetivo dessa unidade é introduzir o aluno ao mundo do Facility Management e
 
 ## Outros
 
-[Diversos/IFC](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/13_outros)
+### [Diversos/IFC](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/13_outros)
 
-[Modelagem 3D e ferramentas de software para BIM](https://github.com/renatogcruz/BIM-Modeling)
+### [Modelagem 3D e ferramentas de software para BIM](https://github.com/renatogcruz/BIM-Modeling)
 
-[Data Science para Arquitetura, Construção e Urbanismo](https://github.com/renatogcruz/Data-science-for-architecture)
+### [Data Science para Arquitetura e Construção](https://github.com/renatogcruz/Data-science-for-architecture)
 
-[Análise de IFC](https://github.com/renatogcruz/Data-science-for-architecture/tree/main/ifc_analysis)
+### [Visualização e Análise de arquivos IFC](https://github.com/renatogcruz/Data-science-for-architecture/tree/main/ifc_analysis)

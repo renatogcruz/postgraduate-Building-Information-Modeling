@@ -46,6 +46,7 @@ Consolidar o entendimento da Gestão de Segurança como a oitava dimensão da BI
 
 11 - [BIM 9D - Lean Construction](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/11_bim_9d_lean_construction)
 
+Métodos e técnicas gerenciais. Ferramentas de Suporte a Construção Enxuta (Jidoka, Poka-Yoke, Just-in-Time, Troca Rápida (SMED), Kaizen, Programas 5S, Kanban, Gerenciamento Visual / Andon,  Mapeamento de Fluxo de Valor.  Estudo de movimentos e de tempos. Estudo de casos.  
 
 12 - [BIM 10D - Construção Industrializada](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/12_bim_10d_construcao_industrializada)
 

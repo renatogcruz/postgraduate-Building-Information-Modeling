@@ -50,6 +50,7 @@ Métodos e técnicas gerenciais. Ferramentas de Suporte a Construção Enxuta (J
 
 12 - [BIM 10D - Construção Industrializada](https://github.com/renatogcruz/postgraduate-Building-Information-Modeling/tree/master/12_bim_10d_construcao_industrializada)
 
+Consolidar o entendimento da Construção Industrializada como a décima dimensão da BIM. Apresentar a relação da BIM com a quarta revolução industrial. Apresentar modelos BIM baseados em Inteligência Artificial e as tendências futuras. 
 
 13 - Trabalho de Conclusão de Curso
 

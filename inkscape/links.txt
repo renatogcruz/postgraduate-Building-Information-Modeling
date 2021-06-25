@@ -1,3 +1,19 @@
-Como converter PDF em DWG utilizando Inkscape - acesso 25/06/2021
+Como converter PDF em DWG utilizando Inkscape 
+
+1 - Descubra o tamanho do documento PDF
+1.1 - Com o PDF aberto, clique em Arquivo -> Propriedades -> Descrição -> Avançado: Tam. da página.
+
+2 - Importando PDF para o Inkscape
+2.1 - Com o Inkscape aberto, clique em Arquivo -> Propriedades do Desenho: Escolha em Tamanho d Página a folha e Orientação ou personalize no campo Tamanho personalizado.
+2.2 - Clique em Arquivo -> Importar e esclha o PDF. Encaixe-o na folha criada.
+
+3 - Convertendo 
+3.1 - Clique em Arquivo -> Salvar como -> Escolha a opção Desktopo Cutting Plotter (AutoCAD DWF R14)(*.dxf)
+
+
+
+Ref.: 
+
+acesso 25/06/2021
 
 https://nirklars.wordpress.com/2015/04/22/pdf-to-dwg-using-free-open-source-inkscape/

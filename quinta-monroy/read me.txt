@@ -1,0 +1,33 @@
+ESPAÑOL
+1_QUINTA-MONROY
+La carpeta contiene los dibujos relativos al proyecto de vivienda de Quinta Monroy (Iquique, Chile) desarrollado por ELEMENTAL en el año 2003-04.
+Van a encontrar 6 archivos, 3 en versión editable DWG y los mismos 3 en versión PDF.
+El archivo ELEMENTAL-QUINTA-MONROY-URB contiene: 
+	- Plano del conjunto. Escala 1:200
+El archivo ELEMENTAL-QUINTA-MONROY-ARQ contiene:
+	- Planta primere nivel. Escala 1:50
+	- Planta segundo y tercer nivel. Escala 1:50
+	- Elevaciónes. Escala 1:50
+	- Cortes. Escala 1:50
+El archivo ELEMENTAL-QUINTA-MONROY-DET contiene:
+	- Detalles tecnicos. Escala 1:2.5 y 1:5
+
+©2016 ELEMENTAL Algunos Derechos Reservados. 
+Los dibujos planimétricos de este documento se realizaron para una localización específica y norma vigente en la época en que fueron desarrollados. ELEMENTAL autoriza el uso de los dibujos planimétricos como guía para el desarrollo de proyectos de vivienda, en la medida que profesionales calificados transformen y adecuen estos diseños a las condiciones constructivas y normativas de cada lugar. ELEMENTAL NO asume ninguna responsabilidad en los proyectos construidos y NO da derecho a usar la marca ELEMENTAL en su difusión, comercialización o cualquier otro producto relacionado.
+
+
+ENGLISH
+1_QUINTA-MONROY
+The folder contains the drawings for the Quinta Monroy's housing project (Iquique, Chile), developed by ELEMENTAL in 2003-04.
+You will find here 6 files, 3 in editable version DWG and the same one in PDF version.
+The file ELEMENTAL-QUINTA-MONROY-URB contains: 
+	- Plan of the complex. Scale 1:200
+The file ELEMENTAL-QUINTA-MONROY-ARQ contains:
+	- Plan first floor. Scale 1:50
+	- Plan second and third floor. Scale 1:50
+	- Elevations. Scale 1:50
+	- Sections. Scale 1:50
+The file ELEMENTAL-QUINTA-MONROY-DET contains:
+	- Technical details. Scale 1:2.5 y 1:5
+© 2016 ELEMENTAL Some Rights Reserved.
+The plan drawings in this document were made for a specific location and the building code at the time they were developed. ELEMENTAL authorizes the use of these drawings as a guide for developing housing projects, assuming that qualified professionals transform and adapt them to local construction conditions and regulations of each place. ELEMENTAL DOES NOT assume any responsibility on the built projects and does not give the right to use the brand ELEMENTAL for broadcasting, marketing or any other related product.
